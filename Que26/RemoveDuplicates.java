@@ -1,4 +1,4 @@
-package LeetCode.Que26;
+package Que26;
 //26. Remove Duplicates from Sorted Array
 class RemoveDuplicates {
 

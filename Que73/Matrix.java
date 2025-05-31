@@ -1,4 +1,4 @@
-package LeetCode.Que73;
+package Que73;
 //73. Set Matrix Zeroes
 public class Matrix {
     public static void main(String args []){
