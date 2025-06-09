@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Que1298/|Que135/" kind="src" path=""/>
+	<classpathentry kind="src" path="Que1298"/>
+	<classpathentry kind="src" path="Que135"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
